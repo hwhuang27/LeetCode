@@ -39,8 +39,5 @@ class Solution:
                 
 '''
     keep 2 pointers (one for index, one for iterating)
-
-    LOL i can't believe it worked!!
-
     
 '''
