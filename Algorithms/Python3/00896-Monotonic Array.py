@@ -16,5 +16,4 @@ sort array desc, check if equals to original
 sort array asc, check if equals to original
 
 if not either, then return False
-
 '''
